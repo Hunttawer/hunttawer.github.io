@@ -1,0 +1,11 @@
+document.writeln("<!DOCTYPE html>");
+document.writeln("<html>");
+document.writeln("<head>");
+document.writeln("    <title>AI 绘画-Tawer</title>");
+document.writeln("</head>");
+document.writeln("<body style=\'height: 100vh;margin: 0;padding: 0;overflow: hidden;\'>");
+document.writeln("    <iframe src=\'http://blog.twtc.eu.org/run/1/ai.html\' frameborder=\'0\' width=\'100%\' height=\'100%\'");
+document.writeln("        allowtransparency=\'yes\' style=\'overflow:hidden;margin: 0; border: none;\'></iframe>");
+document.writeln("</body>");
+document.writeln("</html>");
+document.writeln("");
